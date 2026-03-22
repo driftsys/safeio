@@ -3,9 +3,7 @@
 //! Deterministic async runtime for safety-critical systems.
 //!
 //! SafeIO provides a uniform async API for applications running on
-//! certified operating systems (QNX, SafeRTOS, Linux). The runtime
-//! features a deterministic work-stealing scheduler designed for
-//! formal verification and ASIL-B compliance.
+//! certified operating systems (QNX, SafeRTOS, Linux).
 //!
 //! **Status:** This crate is in early design. The API is not yet available.
 //!
