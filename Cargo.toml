@@ -1,0 +1,11 @@
+[package]
+name = "safeio"
+version = "0.0.1"
+edition = "2024"
+description = "Deterministic async runtime for safety-critical systems"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/driftsys/safeio"
+homepage = "https://github.com/driftsys/safeio"
+keywords = ["async", "safety-critical", "embedded", "runtime", "deterministic"]
+categories = ["asynchronous", "embedded", "aerospace"]
+readme = "README.md"
